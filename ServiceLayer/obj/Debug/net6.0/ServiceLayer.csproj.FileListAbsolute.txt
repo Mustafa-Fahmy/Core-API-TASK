@@ -1,0 +1,17 @@
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb

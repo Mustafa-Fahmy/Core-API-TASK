@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2dd8ba8-e45f-4734-9921-bf4d6cd91d7a": {
+      "ProjectGuid": "e2dd8ba8-e45f-4734-9921-bf4d6cd91d7a",
+      "DisplayName": "APITask",
+      "ColorIndex": 0
+    },
+    "1d393c43-29c5-4c3b-9156-b91b1839acb6": {
+      "ProjectGuid": "1d393c43-29c5-4c3b-9156-b91b1839acb6",
+      "DisplayName": "DomainLayer",
+      "ColorIndex": 1
+    },
+    "f6cc61b8-905a-4f82-9569-bf1b26b0f6c7": {
+      "ProjectGuid": "f6cc61b8-905a-4f82-9569-bf1b26b0f6c7",
+      "DisplayName": "DomainLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ee6c74ad-860e-426b-bda6-d46770ecc4cb": {
+      "ProjectGuid": "ee6c74ad-860e-426b-bda6-d46770ecc4cb",
+      "DisplayName": "RepositoryLayer",
+      "ColorIndex": 3
+    },
+    "25a19b78-293b-434a-800f-e691c2c5f1ca": {
+      "ProjectGuid": "25a19b78-293b-434a-800f-e691c2c5f1ca",
+      "DisplayName": "ServiceLayer",
+      "ColorIndex": 4
+    },
+    "ca360133-7090-47a7-a9a0-b1bdf0756e8b": {
+      "ProjectGuid": "ca360133-7090-47a7-a9a0-b1bdf0756e8b",
+      "DisplayName": "Helper",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

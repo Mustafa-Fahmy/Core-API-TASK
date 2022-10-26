@@ -1,0 +1,17 @@
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Users\mustafa.fahmy\source\repos\APITask\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
